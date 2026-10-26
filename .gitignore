@@ -1,0 +1,19 @@
+# Entorno de Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Configuración local del editor
+.vscode/
+
+# Enunciado y datos de la prueba: uso exclusivo para la evaluación, no se publican
+docs/
+*.csv
+*.parquet
+
+# Salidas intermedias que se regeneran con python -m siata.pipeline (contienen datos minutales)
+parte2/salidas/
+
+# Resultados agregados sí se versionan (indicadores, métricas, eventos)
+!parte2/resultados/*.csv

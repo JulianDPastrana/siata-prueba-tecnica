@@ -1,0 +1,13 @@
+enfoque,codigo,nivel,precision,exhaustividad,n_marcados,n_etiqueta,n_total
+reglas,367,minuto,0.0327,0.2657,5567,685,217397
+reglas,367,hora,0.0948,0.2129,348,155,3624
+stl_mad,367,hora,0.0609,0.0774,197,155,3624
+isolation_forest,367,hora,0.1081,0.0258,37,155,3624
+reglas,803,minuto,0.9978,0.2938,7724,26234,217318
+reglas,803,hora,0.9939,0.0747,164,2183,3624
+stl_mad,803,hora,0.8464,0.1136,293,2183,3624
+reglas,6004,minuto,0.1892,0.0040,37,1730,214823
+reglas,6004,hora,0.4000,0.0161,15,373,3593
+stl_mad,6004,hora,0.5000,0.0027,2,373,3593
+reglas,35,minuto,0.0486,0.1188,247,101,217433
+reglas,35,hora,0.2000,0.0247,10,81,3624
